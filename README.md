@@ -1,3 +1,4 @@
+Desteklerinden dolayı <a href="https://github.com/FurkanOguzgoksu" target="_blank" rel="noopener noreferrer">*Furkan Oğuzgöksu*</a>’a teşekkür ederim.
 # Java Swing Quizzes 🖥️
 
 Bu repo, 2024-2025 Bahar döneminde yürütülen **Görsel Programlama** dersi kapsamında yapılan Java Swing laboratuvar uygulamalarını içermektedir.
